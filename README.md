@@ -32,3 +32,10 @@ Executed a comprehensive exploratory data analysis on a custom streaming dataset
 │── main.ipynb
 │── mymoviedb.csv
 │── README.md
+```
+### 📌 Key Results
+
+- **Historical Trend Analysis:** Identified historical trends shaping streaming content strategy and production volume.
+- **Industry Insight:** Successfully challenged modern industry assumptions regarding viewer behavior and the rise of "shorter content."
+- **Strategic Mapping:** Mapped actionable insights on genre popularity shifts and audience targeting.
+- **Global Distribution:** Visualized global distribution strategies via country-wise content mapping.
